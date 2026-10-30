@@ -1,0 +1,6 @@
+{
+  "name": "ExLibris - Diario di Lettura",
+  "description": "Archivio e diario di lettura per smartphone e WebView App Inventor. Registra libri, copertine online, durate, recensioni e citazioni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

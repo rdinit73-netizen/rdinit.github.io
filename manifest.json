@@ -1,0 +1,16 @@
+{
+  "short_name": "ExLibris",
+  "name": "ExLibris - Diario di Lettura",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fbf9f5",
+  "theme_color": "#1a1815",
+  "display": "standalone",
+  "orientation": "portrait"
+}

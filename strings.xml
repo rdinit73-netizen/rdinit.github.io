@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExLibris</string>
+    <!-- Google AdMob Real Ad Unit IDs -->
+    <string name="admob_test_banner_id">ca-app-pub-3782024584018394/4565499684</string>
+    <string name="admob_test_interstitial_id">ca-app-pub-3782024584018394/5554101547</string>
+    <string name="admob_test_rewarded_id">ca-app-pub-3782024584018394/7279292930</string>
+    <string name="admob_banner_id">ca-app-pub-3782024584018394/4565499684</string>
+    <string name="admob_interstitial_id">ca-app-pub-3782024584018394/5554101547</string>
+    <string name="admob_rewarded_id">ca-app-pub-3782024584018394/7279292930</string>
+</resources>
